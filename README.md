@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kacper. I build web apps in TypeScript, mostly frontend, and I'm exploring data synchronization in offline-first apps.
+I'm Kacper. I build web apps in TypeScript, mostly frontend.
 
 - **[MealJournal](https://github.com/kbanass/meal-journal):** offline-first PWA in React (in progress)
 - **[Willa Ewa](https://github.com/kbanass/WillaEwa):** website for a seaside guesthouse, my first client project (Astro, Sanity, Cloudflare)
