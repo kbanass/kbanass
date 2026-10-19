@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Kacper. I build web apps in TypeScript, mostly frontend, and I'm exploring data synchronization in offline-first apps.
+
+- **[MealJournal](https://github.com/kbanass/meal-journal):** offline-first PWA in React (in progress)
+- **[Willa Ewa](https://github.com/kbanass/WillaEwa):** website for a seaside guesthouse, my first client project (Astro, Sanity, Cloudflare)
+
+I'm looking for my first job as a junior developer · [LinkedIn](https://www.linkedin.com/in/kacper-banas-dev) · kacper.banas.dev@gmail.com
+
 <!--
 **kbanass/kbanass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
